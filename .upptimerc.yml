@@ -34,7 +34,7 @@ status-website:
 i18n: 
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme laufen störungsfrei
-  incidentReport: "Vorfall #$NUMBER report →"
+  incidentReport: "Vorfall #$NUMBER Report →"
   activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details

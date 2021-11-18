@@ -1,4 +1,3 @@
-# Change these first
 owner: spschweiz
 repo: status
 
@@ -17,19 +16,15 @@ sites:
     url: https://meet.sp-ps.ch
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.spschweiz.ch
-  # baseUrl: /SP-Schweiz-Uptime-Monitor
   logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png
   name: SP Schweiz Statuspage
-  introTitle: "Prüfe die Verfügbarkeit unserer Services."
+  introTitle: "Prüfe die Verfügbarkeit unserer Services"
   introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Support
+      href: https://sp-ps.ch/support

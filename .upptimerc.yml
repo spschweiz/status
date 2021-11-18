@@ -41,7 +41,7 @@ i18n:
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details
   incidentFixed: geflickt
-  incidentOngoing: Andauernd
+  incidentOngoing: andauernd
   incidentOpenedAt: eröffnet am
   incidentClosedAt: Geschlossen am
   incidentSubscribe: Updates abonnieren

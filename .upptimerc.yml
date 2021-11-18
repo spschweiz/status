@@ -14,7 +14,8 @@ sites:
     url: https://mattermost.sp-ps.ch
   - name: Jitsi Meet SP Schweiz
     url: https://meet.sp-ps.ch
-
+assignees:
+  - tsueri
 status-website:
   cname: status.spschweiz.ch
   logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png

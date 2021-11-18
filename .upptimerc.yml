@@ -37,12 +37,12 @@ i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme laufen störungsfrei
   incidentReport: "Vorfall #$NUMBER Report →"
-  activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
+  activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details
   incidentFixed: geflickt
   incidentOngoing: Andauernd
-  incidentOpenedAt: geöffnet am
+  incidentOpenedAt: eröffnet am
   incidentClosedAt: Geschlossen am
   incidentSubscribe: Updates abonnieren
   incidentViewOnGitHub: Auf GitHub anschauen
@@ -57,9 +57,9 @@ i18n:
   averageResponseTimeTitle: Durchschnittliche Antwortzeit
   sevelDayResponseTime: 7-Tage Antwortzeit
   responseTimeMs: Antwortzeit (ms)
-  up: Up
-  down: Down
-  degraded: degradiert
+  up: verfügbar
+  down: nicht verfügbar
+  degraded: Service degradiert
   ms: ms
   loading: am laden
   navGitHub: GitHub

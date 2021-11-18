@@ -41,7 +41,7 @@ status-website:
       href: https://sp-ps.ch/support
 i18n: 
   activeIncidents: Aktive Vorfälle
-  allSystemsOperational: Alle Systeme laufen störungsfrei
+  allSystemsOperational: Alle Systeme laufen störungsfrei.
   incidentReport: "Vorfall #$NUMBER Report →"
   activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Details

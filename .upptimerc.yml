@@ -29,12 +29,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Support
       href: https://sp-ps.ch/support
-i18n:
-  overallUptimeTitle: Gesamte Verfügbarkeit
-  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
-  averageResponseTimeTitle: Durchschnittliche Antwortzeit
-  incidentSubscribe: 
-  
+i18n: 
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme laufen störungsfrei
   incidentReport: "Vorfall #$NUMBER report →"

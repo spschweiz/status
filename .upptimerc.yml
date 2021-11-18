@@ -9,6 +9,8 @@ sites:
     url: https://sp-parl.ch
   - name: Mitgliederdatenbank
     url: https://login.sp-ps.ch/tocco
+  - name: Mobilisierungstool Avanti
+    url: tel.sp-ps.ch
   - name: Mattermost
     url: https://mattermost.sp-ps.ch
   - name: Jitsi Meet SP Schweiz
@@ -19,10 +21,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.spschweiz.ch
   # baseUrl: /SP-Schweiz-Uptime-Monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png
   name: SP Schweiz Statuspage
-  introTitle: "Status verschiedener Dienste der SP Schweiz."
-  introMessage: "Bei Downtime ohne Ankündigung bitte hier melden: [Support](https://www.sp-ps.ch/support)"
+  introTitle: "Prüfe die Verfügbarkeit unserer Services."
+  introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."
   navbar:
     - title: Status
       href: /

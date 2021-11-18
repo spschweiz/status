@@ -18,6 +18,8 @@ sites:
     url: https://meet.sp-ps.ch
   - name: Telefonanlage
     url: $URL_PBX
+  - name: Wissensdatenbank (Bücherregal)
+    url: $URL_BOOKS
 assignees:
   - tsueri
 status-website:

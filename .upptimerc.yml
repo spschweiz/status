@@ -42,7 +42,7 @@ i18n:
   activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details
-  incidentFixed: geflickt
+  incidentFixed: repariert
   incidentOngoing: andauernd
   incidentOpenedAt: eröffnet am
   incidentClosedAt: Geschlossen am

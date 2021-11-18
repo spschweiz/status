@@ -10,7 +10,7 @@ sites:
     url: https://login.sp-ps.ch/tocco
     assignees: anweibel
   - name: Mobilisierungstool Avanti
-    url: tel.sp-ps.ch
+    url: $URL_AVANTI
     assignees: anweibel
   - name: Mattermost Chat
     url: https://mattermost.sp-ps.ch

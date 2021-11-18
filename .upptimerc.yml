@@ -51,7 +51,7 @@ i18n:
   overallUptimeTitle: Gesamte Verfügbarkeit
   averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Antwortzeit
-  sevelDayResponseTime: 7-day response time
+  sevelDayResponseTime: 7-Tage Antwortzeit
   responseTimeMs: Antwortzeit (ms)
   up: Up
   down: Down

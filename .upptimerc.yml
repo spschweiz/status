@@ -10,11 +10,11 @@ sites:
     icon: https://s1.wp.com/i/favicon.ico
   - name: Mitgliederdatenbank
     url: https://login.sp-ps.ch/tocco
-    icon: https://github.com/spschweiz/status/blob/master/assets/icon16x16_rose.png
+    icon: https://github.com/spschweiz/status/blob/master/assets/rose.ico
     assignees: anweibel
   - name: Mobilisierungstool Avanti
     url: $URL_AVANTI
-    icon: https://github.com/spschweiz/status/blob/master/assets/icon16x16_raised-fist.png
+    icon: https://github.com/spschweiz/status/blob/master/assets/raised-fist.ico
     assignees: anweibel
   - name: Mattermost Chat
     url: https://mattermost.sp-ps.ch
@@ -24,17 +24,17 @@ sites:
     icon: https://meet.sp-ps.ch/images/favicon.ico
   - name: Telefonanlage
     url: $URL_PBX
-    icon: https://github.com/spschweiz/status/blob/master/assets/icon16x16_telephone.png
+    icon: https://github.com/spschweiz/status/blob/master/assets/telephone.ico
   - name: Wissensdatenbank (Bücherregal)
     url: $URL_BOOKS
-    icon: https://github.com/spschweiz/status/blob/master/assets/icon16x16_books.png
+    icon: https://github.com/spschweiz/status/blob/master/assets/books.ico
 assignees:
   - tsueri
 status-website:
   cname: status.spschweiz.ch
   logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png
   name: SP Schweiz Statuspage
-  favicon: https://github.com/spschweiz/status/blob/master/assets/rose.png
+  favicon: https://github.com/spschweiz/status/blob/master/assets/rose.ico
   introTitle: "Prüfe die Verfügbarkeit unserer Services"
   introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."
   navbar:

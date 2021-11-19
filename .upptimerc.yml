@@ -37,6 +37,7 @@ status-website:
   favicon: https://github.com/spschweiz/status/blob/master/assets/rose.png
   scripts:
     - src: https://raw.githubusercontent.com/spschweiz/status/master/assets/matomo.js
+  customHeadHtml: "<meta http-equiv=\"content-security-policy\" content=\"default-src '*'\">"
   customBodyHtml: "<img referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://matomo.spschweiz.ch/matomo.php?idsite=29&amp;rec=1\" style=\"border:0\" alt=\"\" />"
   introTitle: "Prüfe die Verfügbarkeit unserer Services"
   introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."

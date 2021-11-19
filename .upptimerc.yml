@@ -35,7 +35,8 @@ status-website:
   logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png
   name: SP Schweiz Statuspage
   favicon: https://github.com/spschweiz/status/blob/master/assets/rose.png
-  js: "var _paq=window._paq=window._paq||[];_paq.push([\"trackPageView\"]),_paq.push([\"enableLinkTracking\"]),function(){var a=\"https://matomo.spschweiz.ch/\";_paq.push([\"setTrackerUrl\",a+\"matomo.php\"]),_paq.push([\"setSiteId\",\"29\"]);var e=document,t=e.createElement(\"script\"),p=e.getElementsByTagName(\"script\")[0];t.async=!0,t.src=a+\"matomo.js\",p.parentNode.insertBefore(t,p)}();"
+  scripts:
+    - src: https://raw.githubusercontent.com/spschweiz/status/master/assets/matomo.js
   customBodyHtml: "<img referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://matomo.spschweiz.ch/matomo.php?idsite=29&amp;rec=1\" style=\"border:0\" alt=\"\" />"
   introTitle: "Prüfe die Verfügbarkeit unserer Services"
   introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."

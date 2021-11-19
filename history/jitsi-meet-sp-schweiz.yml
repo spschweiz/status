@@ -1,12 +1,7 @@
 url: $URL_JITSI
 status: up
 code: 200
-<<<<<<< HEAD
-responseTime: 640
-lastUpdated: 2021-11-19T10:40:48.924Z
-=======
-responseTime: 696
-lastUpdated: 2021-11-19T10:47:54.846Z
->>>>>>> edb9630454dea904f7bd04b23b1e1fe7c95d615d
-startTime: Thu Nov 18 2021 20:30:38 GMT+0000 (Coordinated Universal Time)
+responseTime: 668
+lastUpdated: 2021-11-19T11:00:24.903Z
+startTime: Fri Nov 19 2021 11:00:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

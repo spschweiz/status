@@ -37,7 +37,7 @@ status-website:
   favicon: https://github.com/spschweiz/status/blob/master/assets/rose.png
   scripts:
     - src: https://raw.githubusercontent.com/spschweiz/status/master/assets/matomo.js
-  customHeadHtml: "<meta http-equiv=\"content-security-policy\" content=\"default-src *\">"
+  customHeadHtml: "<meta http-equiv=\"content-security-policy\" content=\" default-src 'none'; connect-src https://raw.githubusercontent.com/spschweiz/status/master/history/summary.json; img-src https://github.com https://matomo.spschweiz.ch https://mattermost.sp-ps.ch https://meet.sp-ps.ch https://raw.githubusercontent.com https://s1.wp.com https://sp-parl.ch https://www.sp-ps.ch; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://raw.githubusercontent.com/spschweiz/status/master/assets/matomo.js; style-src 'self' 'unsafe-inline'; worker-src 'self' \">"
   customBodyHtml: "<img referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://matomo.spschweiz.ch/matomo.php?idsite=29&amp;rec=1\" style=\"border:0\" alt=\"\" />"
   introTitle: "Prüfe die Verfügbarkeit unserer Services"
   introMessage: "Bei Downtime ohne Ankündigung [bitte hier melden](https://github.com/spschweiz/status/issues)."

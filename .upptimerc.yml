@@ -115,7 +115,6 @@ i18n:
   uptimeWeek: "7-Tage Verfügbarkeit"
   uptimeMonth: "30-Tage Verfügbarkeit"
   uptimeYear: "1-Jahres Verfügbarkeit"
-  liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
   degradedPerformance: "🟨 Leistung degradiert"
   completeOutage: "🟥 Kompletter Ausfall"

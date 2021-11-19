@@ -105,7 +105,6 @@ i18n:
   status: "Status"
   history: "Geschichte"
   responseTime: "Antwortzeit"
-  uptime: "Verfügbarkeit"
   responseTimeGraphAlt: "Antwortzeit Grafik"
   responseTimeDay: "24-Stunden Antwortzeit"
   responseTimeWeek: "7-Tage Antwortzeit"

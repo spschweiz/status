@@ -51,6 +51,14 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Support
       href: https://sp-ps.ch/support
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 i18n: 
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme laufen störungsfrei.

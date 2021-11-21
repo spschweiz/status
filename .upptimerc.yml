@@ -35,7 +35,7 @@ sites:
   - name: Wissensdatenbank (Bücherregal)
     url: $URL_BOOKS
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico
-  - name: Terinalserver
+  - name: Terminalserver
     url: $URL_TS
     check: "tcp-ping"
     port: 3389

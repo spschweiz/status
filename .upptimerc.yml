@@ -35,6 +35,11 @@ sites:
   - name: Wissensdatenbank (Bücherregal)
     url: $URL_BOOKS
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico
+  - name: Terinalserver
+    url: $URL_TS
+    check: "tcp-ping"
+    port: 3389
+    icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
 assignees:
   - tsueri
 status-website:

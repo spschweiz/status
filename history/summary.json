@@ -58,9 +58,9 @@
     "url": "https://login.sp-ps.ch/",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico",
     "slug": "sektionsportal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   },
   {
     "name": "Mobilisierungstool Avanti",
@@ -95,18 +97,17 @@
     "icon": "https://mattermost.sp-ps.ch/static/images/favicon/favicon-default-16x16.png",
     "slug": "mattermost-chat",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 446,
     "timeDay": 436,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2021-11-24": 13,
       "2021-11-21": 11
     }
   },

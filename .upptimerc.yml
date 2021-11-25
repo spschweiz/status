@@ -15,7 +15,8 @@ sites:
   - name: Sektionsportal
     url: https://login.sp-ps.ch/
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico
-    assignees: anweibel
+    assignees: 
+      - anweibel
     expectedStatusCodes: 
       - 200
       - 401

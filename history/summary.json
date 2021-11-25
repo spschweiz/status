@@ -152,17 +152,17 @@
     "url": "$URL_BOOKS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
-    "status": "down",
+    "status": "up",
     "uptime": "97.75%",
     "uptimeDay": "85.66%",
     "uptimeWeek": "97.75%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "97.75%",
-    "time": 559,
-    "timeDay": 542,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 540,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2021-11-25": 207
     }

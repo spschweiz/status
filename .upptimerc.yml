@@ -15,15 +15,16 @@ sites:
   - name: Sektionsportal
     url: https://login.sp-ps.ch/
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico
-    assignees: 
+    assignees:
       - anweibel
-    expectedStatusCodes: 
+    expectedStatusCodes:
       - 200
       - 401
   - name: Mobilisierungstool Avanti
     url: $URL_AVANTI
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/raised-fist.ico
-    assignees: anweibel
+    assignees:
+      - anweibel
   - name: Mattermost Chat
     url: https://mattermost.sp-ps.ch
     icon: https://mattermost.sp-ps.ch/static/images/favicon/favicon-default-16x16.png
@@ -65,7 +66,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-i18n: 
+i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme laufen störungsfrei.
   incidentReport: "Vorfall #$NUMBER Report →"

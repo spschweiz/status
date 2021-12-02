@@ -4,19 +4,19 @@
     "url": "https://www.sp-ps.ch",
     "icon": "https://sp-parl.ch/wp-content/themes/sp/img/icons/apple-touch-icon.png",
     "slug": "sp-schweiz-webseite",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 830,
     "timeDay": 858,
     "timeWeek": 827,
     "timeMonth": 830,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2021-12-02": 15
+      "2021-12-02": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sp-parl.ch",
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "wordpress-plattform",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 888,
     "timeDay": 797,
     "timeWeek": 918,
     "timeMonth": 888,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2021-12-02": 14
+      "2021-12-02": 0
     }
   },
   {
@@ -159,7 +159,7 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.92%",
     "time": 559,

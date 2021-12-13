@@ -1,7 +1,7 @@
 url: https://mattermost.sp-ps.ch
-status: down
-code: 502
-responseTime: 401
-lastUpdated: 2021-12-13T02:09:43.027Z
+status: up
+code: 200
+responseTime: 407
+lastUpdated: 2021-12-13T02:24:23.981Z
 startTime: Fri Nov 19 2021 11:00:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

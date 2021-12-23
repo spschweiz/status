@@ -42,7 +42,7 @@ sites:
     check: "tcp-ping"
     port: 3389
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
-  - name: Exchange
+  - name: Microsoft Exchange (Email, Kalender, Kontakte)
     url: $URL_EXCHANGE
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png
     expectedStatusCodes:

@@ -45,6 +45,8 @@ sites:
   - name: Microsoft Exchange (Email, Kalender, Kontakte)
     url: $URL_EXCHANGE
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png
+    assignees:
+      - tsueri
 assignees:
   - tsueri
 status-website:

@@ -42,6 +42,11 @@ sites:
     check: "tcp-ping"
     port: 3389
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
+  - name: Exchange
+    url: $URL_EXCHANGE
+    icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png
+    expectedStatusCodes:
+      - 200
 assignees:
   - tsueri
 status-website:

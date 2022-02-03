@@ -138,19 +138,19 @@
     "url": "$URL_JITSI",
     "icon": "https://meet.sp-ps.ch/images/favicon.ico",
     "slug": "jitsi-meet-sp-schweiz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 707,
-    "timeDay": 745,
-    "timeWeek": 694,
-    "timeMonth": 714,
+    "timeDay": 694,
+    "timeWeek": 688,
+    "timeMonth": 712,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 7
     }
   },
   {

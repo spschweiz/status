@@ -142,9 +142,9 @@
     "url": "$URL_JITSI",
     "icon": "https://meet.sp-ps.ch/images/favicon.ico",
     "slug": "jitsi-meet-sp-schweiz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 690,
     "timeMonth": 710,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "Telefonanlage",

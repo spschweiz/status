@@ -1,7 +1,7 @@
 url: $URL_AVANTI
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2022-03-13T23:05:11.394Z
+status: down
+code: 403
+responseTime: 71
+lastUpdated: 2022-03-14T09:19:06.730Z
 startTime: Fri Nov 19 2021 11:00:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

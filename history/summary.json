@@ -103,13 +103,13 @@
     "slug": "mattermost-chat",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "65.22%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "76.41%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.07%",
     "time": 440,
     "timeDay": 516,
-    "timeWeek": 456,
+    "timeWeek": 462,
     "timeMonth": 447,
     "timeYear": 440,
     "dailyMinutesDown": {
@@ -159,9 +159,9 @@
     "url": "$URL_JITSI",
     "icon": "https://meet.sp-ps.ch/images/favicon.ico",
     "slug": "jitsi-meet-sp-schweiz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,7 +170,9 @@
     "timeWeek": 689,
     "timeMonth": 706,
     "timeYear": 706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   },
   {
     "name": "Telefonanlage",

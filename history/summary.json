@@ -6,9 +6,9 @@
     "slug": "sp-schweiz-webseite",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 923,
     "timeDay": 5861,
@@ -16,7 +16,6 @@
     "timeMonth": 1353,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2022-03-28": 12,
       "2021-12-02": 16
     }
   },
@@ -27,9 +26,9 @@
     "slug": "wordpress-plattform",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 875,
     "timeDay": 949,
@@ -37,7 +36,6 @@
     "timeMonth": 940,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2022-03-28": 12,
       "2021-12-03": 16,
       "2021-12-02": 13
     }
@@ -103,16 +101,16 @@
     "url": "https://mattermost.sp-ps.ch",
     "icon": "https://mattermost.sp-ps.ch/static/images/favicon/favicon-default-16x16.png",
     "slug": "mattermost-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "97.10%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "89.44%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.08%",
     "time": 440,
-    "timeDay": 434,
-    "timeWeek": 466,
-    "timeMonth": 446,
+    "timeDay": 431,
+    "timeWeek": 463,
+    "timeMonth": 445,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2022-03-28": 42,

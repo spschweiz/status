@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 920,
-    "timeDay": 1176,
-    "timeWeek": 914,
+    "time": 919,
+    "timeDay": 810,
+    "timeWeek": 915,
     "timeMonth": 898,
-    "timeYear": 920,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2021-12-02": 16
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 889,
-    "timeDay": 1093,
-    "timeWeek": 1017,
-    "timeMonth": 968,
+    "timeDay": 896,
+    "timeWeek": 1020,
+    "timeMonth": 970,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2021-12-03": 16,
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 687,
-    "timeWeek": 734,
+    "timeDay": 701,
+    "timeWeek": 717,
     "timeMonth": 750,
     "timeYear": 719,
     "dailyMinutesDown": {}
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 379,
-    "timeDay": 209,
-    "timeWeek": 204,
+    "time": 378,
+    "timeDay": 216,
+    "timeWeek": 208,
     "timeMonth": 209,
-    "timeYear": 379,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2021-11-24": 29
     }
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 554,
-    "timeWeek": 542,
+    "timeDay": 520,
+    "timeWeek": 544,
     "timeMonth": 547,
     "timeYear": 529,
     "dailyMinutesDown": {}
@@ -108,9 +108,9 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.00%",
     "time": 441,
-    "timeDay": 450,
-    "timeWeek": 446,
-    "timeMonth": 446,
+    "timeDay": 421,
+    "timeWeek": 444,
+    "timeMonth": 447,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2022-04-25": 43,
@@ -176,18 +176,16 @@
     "slug": "jitsi-meet-sp-schweiz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
-    "timeDay": 1058,
+    "timeDay": 1055,
     "timeWeek": 782,
     "timeMonth": 724,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2022-04-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telefonanlage",
@@ -200,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 558,
+    "time": 619,
+    "timeDay": 574,
     "timeWeek": 620,
-    "timeMonth": 634,
-    "timeYear": 620,
+    "timeMonth": 633,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -219,9 +217,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 562,
-    "timeDay": 536,
-    "timeWeek": 556,
-    "timeMonth": 570,
+    "timeDay": 526,
+    "timeWeek": 553,
+    "timeMonth": 568,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2021-11-25": 207
@@ -239,7 +237,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 134,
+    "timeDay": 130,
     "timeWeek": 140,
     "timeMonth": 141,
     "timeYear": 139,
@@ -256,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 402,
-    "timeWeek": 465,
+    "time": 529,
+    "timeDay": 401,
+    "timeWeek": 464,
     "timeMonth": 464,
-    "timeYear": 530,
+    "timeYear": 529,
     "dailyMinutesDown": {}
   }
 ]

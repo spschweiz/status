@@ -6,9 +6,9 @@
     "slug": "sp-schweiz-webseite",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 919,
     "timeDay": 877,
@@ -16,7 +16,6 @@
     "timeMonth": 905,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2022-05-03": 9,
       "2021-12-02": 16
     }
   },
@@ -64,9 +63,9 @@
     "url": "https://login.sp-ps.ch/",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico",
     "slug": "sektionsportal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +75,7 @@
     "timeMonth": 208,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2022-05-03": 0,
       "2021-11-24": 29
     }
   },

@@ -197,12 +197,12 @@
     "slug": "telefonanlage",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "93.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 618,
-    "timeDay": 704,
+    "timeDay": 705,
     "timeWeek": 620,
     "timeMonth": 613,
     "timeYear": 618,
@@ -217,12 +217,12 @@
     "slug": "wissensdatenbank-buecherregal",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.88%",
     "time": 560,
-    "timeDay": 562,
+    "timeDay": 580,
     "timeWeek": 551,
     "timeMonth": 548,
     "timeYear": 560,
@@ -254,9 +254,9 @@
     "url": "$URL_EXCHANGE",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png",
     "slug": "microsoft-exchange-email-kalender-kontakte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -265,6 +265,8 @@
     "timeWeek": 431,
     "timeMonth": 442,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   }
 ]

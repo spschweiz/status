@@ -1,7 +1,7 @@
 url: https://login.sp-ps.ch/tocco
-status: down
-code: 503
-responseTime: 841
-lastUpdated: 2022-06-13T13:52:48.002Z
+status: up
+code: 200
+responseTime: 660
+lastUpdated: 2022-06-13T13:59:38.885Z
 startTime: Fri Nov 19 2021 11:00:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -249,7 +249,7 @@
     "url": "$URL_TS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png",
     "slug": "terminalserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",

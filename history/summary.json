@@ -59,7 +59,7 @@
     "time": 751,
     "timeDay": 834,
     "timeWeek": 856,
-    "timeMonth": 904,
+    "timeMonth": 912,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2022-06-20": 37,
@@ -80,7 +80,7 @@
     "time": 411,
     "timeDay": 182,
     "timeWeek": 225,
-    "timeMonth": 748,
+    "timeMonth": 769,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-06-20": 22,
@@ -114,9 +114,9 @@
     "url": "https://mattermost.sp-ps.ch",
     "icon": "https://mattermost.sp-ps.ch/static/images/favicon/favicon-default-16x16.png",
     "slug": "mattermost-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
@@ -126,6 +126,7 @@
     "timeMonth": 410,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-09": 24,
       "2022-05-22": 21,
       "2022-05-11": 30,

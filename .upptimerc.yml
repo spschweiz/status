@@ -51,7 +51,7 @@ assignees:
   - tsueri
 status-website:
   cname: status.spschweiz.ch
-  logoUrl: https://www.sp-ps.ch/sites/all/themes/sp_ps/logo.png
+  logoUrl: https://raw.githubusercontent.com/spschweiz/status/master/assets/sp-logo.png
   name: SP Schweiz Statuspage
   favicon: https://github.com/spschweiz/status/blob/master/assets/rose.ico
   introTitle: "Prüfe die Verfügbarkeit unserer Services"

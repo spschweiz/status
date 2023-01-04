@@ -52,9 +52,9 @@
     "slug": "mitgliederdatenbank",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 971,
     "timeDay": 862,
@@ -62,7 +62,6 @@
     "timeMonth": 1073,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2023-01-03": 7,
       "2022-11-07": 44,
       "2022-10-31": 18,
       "2022-09-26": 67,
@@ -77,9 +76,9 @@
     "slug": "sektionsportal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 418,
     "timeDay": 316,
@@ -87,7 +86,6 @@
     "timeMonth": 270,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-01-03": 7,
       "2022-11-07": 43,
       "2022-10-31": 18,
       "2022-09-26": 27,
@@ -126,7 +124,7 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.07%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "99.30%",
     "time": 433,
     "timeDay": 330,
@@ -198,8 +196,7 @@
       "2022-01-24": 15,
       "2022-01-20": 24,
       "2022-01-08": 31,
-      "2022-01-06": 24,
-      "2022-01-04": 20
+      "2022-01-06": 24
     }
   },
   {

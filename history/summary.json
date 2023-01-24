@@ -229,9 +229,9 @@
     "slug": "telefonanlage",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 588,
     "timeDay": 678,
@@ -239,7 +239,6 @@
     "timeMonth": 543,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2023-01-24": 11,
       "2022-07-08": 22,
       "2022-05-16": 94
     }
@@ -249,9 +248,9 @@
     "url": "$URL_BOOKS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -261,6 +260,7 @@
     "timeMonth": 575,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2023-01-24": 0,
       "2022-07-08": 22,
       "2022-05-16": 93
     }

@@ -39,8 +39,6 @@ sites:
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico
   - name: Terminalserver
     url: $URL_TS
-    check: "tcp-ping"
-    port: 3389
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
   - name: Microsoft Exchange (Email, Kalender, Kontakte)
     url: $URL_EXCHANGE

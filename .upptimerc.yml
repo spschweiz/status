@@ -39,6 +39,7 @@ sites:
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico
   - name: Terminalserver
     url: $URL_TS
+    __dangerous__body_down_if_text_missing: 'Überprüfen Sie in der Onlinehilfe des Browsers, ob der Browser JScript unterstützt oder wie Sie Skripts zulassen können.'
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
   - name: Microsoft Exchange (Email, Kalender, Kontakte)
     url: $URL_EXCHANGE

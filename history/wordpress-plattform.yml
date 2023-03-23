@@ -1,7 +1,7 @@
 url: https://sp-parl.ch
-status: up
-code: 200
-responseTime: 1196
-lastUpdated: 2023-03-22T23:04:30.222Z
+status: down
+code: 500
+responseTime: 695
+lastUpdated: 2023-03-23T06:28:24.373Z
 startTime: Fri Nov 19 2021 11:00:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

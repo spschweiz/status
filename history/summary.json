@@ -6,17 +6,17 @@
     "slug": "sp-schweiz-webseite",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 233,
-    "timeWeek": 1923,
-    "timeMonth": 846,
+    "time": 492,
+    "timeDay": 197,
+    "timeWeek": 1535,
+    "timeMonth": 805,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2023-09-06": 8
+      "2023-09-06": 0
     }
   },
   {

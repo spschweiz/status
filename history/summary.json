@@ -6,9 +6,9 @@
     "slug": "sp-schweiz-webseite",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 197,
@@ -16,7 +16,7 @@
     "timeMonth": 805,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 26
     }
   },
   {
@@ -276,10 +276,10 @@
     "url": "$URL_BOOKS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.74%",
     "time": 618,
@@ -288,6 +288,7 @@
     "timeMonth": 681,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2023-09-06": 2,
       "2023-06-23": 26,
       "2023-02-08": 16,
       "2023-02-02": 825,
@@ -306,9 +307,9 @@
     "url": "$URL_TS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png",
     "slug": "terminalserver",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "65.01%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "64.98%",
     "uptimeWeek": "95.00%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "97.85%",

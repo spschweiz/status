@@ -146,10 +146,10 @@
     "icon": "https://mattermost.sp-ps.ch/static/images/favicon/favicon-default-16x16.png",
     "slug": "mattermost-chat",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.83%",
+    "uptime": "99.42%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.43%",
     "time": 448,
     "timeDay": 431,
@@ -157,7 +157,8 @@
     "timeMonth": 562,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-09-14": 0,
+      "2023-09-15": 3,
+      "2023-09-14": 13,
       "2023-09-08": 28,
       "2023-08-27": 16,
       "2023-08-25": 30,
@@ -197,8 +198,7 @@
       "2022-10-21": 38,
       "2022-10-11": 26,
       "2022-10-06": 38,
-      "2022-09-23": 40,
-      "2022-09-15": 42
+      "2022-09-23": 40
     }
   },
   {

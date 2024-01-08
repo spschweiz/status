@@ -1,7 +1,7 @@
 url: $URL_PBX
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-08T08:14:02.325Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2024-01-08T10:15:40.746Z
 startTime: 2021-11-19T11:00:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

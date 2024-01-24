@@ -141,9 +141,9 @@
     "slug": "mattermost-chat",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.39%",
     "time": 505,
     "timeDay": 1062,
@@ -151,7 +151,6 @@
     "timeMonth": 638,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2024-01-23": 7,
       "2024-01-11": 28,
       "2024-01-04": 16,
       "2023-12-26": 32,
@@ -318,7 +317,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.77%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "97.63%",
     "time": 523,
     "timeDay": 403,
@@ -358,8 +357,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 915,
-      "2023-01-24": 18
+      "2023-01-25": 915
     }
   },
   {

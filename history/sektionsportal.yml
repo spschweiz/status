@@ -1,7 +1,7 @@
 url: https://login.sp-ps.ch/
-status: down
-code: 503
-responseTime: 20404
-lastUpdated: 2024-02-07T09:52:43.317Z
+status: up
+code: 401
+responseTime: 18446
+lastUpdated: 2024-02-07T09:59:10.349Z
 startTime: 2021-11-19T13:09:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>

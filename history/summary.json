@@ -293,9 +293,9 @@
     "url": "$URL_EXCHANGE",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png",
     "slug": "microsoft-exchange-email-kalender-kontakte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -305,6 +305,7 @@
     "timeMonth": 421,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2024-02-24": 0,
       "2023-03-18": 15
     }
   }

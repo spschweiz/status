@@ -1,7 +1,7 @@
 url: $URL_EXCHANGE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-23T17:25:12.521Z
+status: up
+code: 200
+responseTime: 5128
+lastUpdated: 2024-05-23T17:32:34.296Z
 startTime: 2021-12-23T15:27:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

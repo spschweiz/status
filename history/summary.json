@@ -58,7 +58,7 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/rose.ico",
     "slug": "mitgliederdatenbank",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
@@ -83,7 +83,7 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico",
     "slug": "sektionsportal",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
@@ -213,7 +213,7 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/telephone.ico",
     "slug": "telefonanlage",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -258,7 +258,7 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png",
     "slug": "terminalserver",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -289,9 +289,9 @@
     "url": "$URL_EXCHANGE",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png",
     "slug": "microsoft-exchange-email-kalender-kontakte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -300,6 +300,8 @@
     "timeWeek": 432,
     "timeMonth": 429,
     "timeYear": 473,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   }
 ]

@@ -94,18 +94,20 @@
     "url": "$URL_AVANTI",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/raised-fist.ico",
     "slug": "mobilisierungstool-avanti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 457,
-    "timeWeek": 477,
+    "timeDay": 450,
+    "timeWeek": 473,
     "timeMonth": 427,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   },
   {
     "name": "Mattermost Chat",
@@ -224,7 +226,7 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

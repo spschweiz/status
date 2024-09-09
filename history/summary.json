@@ -94,19 +94,19 @@
     "url": "$URL_AVANTI",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/raised-fist.ico",
     "slug": "mobilisierungstool-avanti",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 450,
-    "timeWeek": 473,
-    "timeMonth": 427,
+    "timeDay": 470,
+    "timeWeek": 477,
+    "timeMonth": 430,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 10
     }
   },
   {

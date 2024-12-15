@@ -33,7 +33,7 @@
     "time": 1129,
     "timeDay": 1052,
     "timeWeek": 936,
-    "timeMonth": 994,
+    "timeMonth": 1002,
     "timeYear": 1071,
     "dailyMinutesDown": {
       "2024-10-08": 24,
@@ -217,10 +217,10 @@
     "url": "$URL_BOOKS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 663,
@@ -229,6 +229,7 @@
     "timeMonth": 591,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2024-12-15": 1,
       "2024-06-28": 498,
       "2024-01-25": 30
     }
@@ -238,9 +239,9 @@
     "url": "$URL_TS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png",
     "slug": "terminalserver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "98.26%",
@@ -250,6 +251,7 @@
     "timeMonth": 478,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2024-12-15": 0,
       "2024-11-21": 503,
       "2024-11-20": 428,
       "2024-08-16": 53,

@@ -1,7 +1,7 @@
 url: $URL_BOOKS
-status: up
-code: 200
-responseTime: 1520
-lastUpdated: 2025-04-01T22:07:05.941Z
+status: down
+code: 500
+responseTime: 1083
+lastUpdated: 2025-04-01T22:18:09.414Z
 startTime: 2021-11-19T11:00:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

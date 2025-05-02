@@ -39,7 +39,8 @@ sites:
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico
   - name: Terminalserver
     url: $URL_TS
-    __dangerous__body_down_if_text_missing: 'Laden Sie die Seite bei deaktivierter verstärkter Sicherheitskonfiguration. Sollte der Fehler weiterhin angezeigt werden, wenden Sie sich an den Administrator.'
+    Port: 443
+    __dangerous__body_down_if_text_missing: 'IIS Windows Server'
     icon: https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png
   - name: Microsoft Exchange (Email, Kalender, Kontakte)
     url: $URL_EXCHANGE

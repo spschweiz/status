@@ -26,15 +26,15 @@
     "uptime": "98.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.66%",
-    "uptimeYear": "96.88%",
+    "uptimeMonth": "62.63%",
+    "uptimeYear": "96.87%",
     "time": 1039,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1050,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2025-06-11": 550,
+      "2025-06-11": 562,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -252,19 +252,19 @@
     "url": "$URL_EXCHANGE",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png",
     "slug": "microsoft-exchange-email-kalender-kontakte",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 488,
-    "timeDay": 455,
-    "timeWeek": 472,
-    "timeMonth": 480,
+    "timeDay": 523,
+    "timeWeek": 487,
+    "timeMonth": 483,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 12
     }
   }
 ]

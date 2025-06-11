@@ -23,18 +23,18 @@
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "wordpress-plattform",
     "status": "down",
-    "uptime": "98.17%",
+    "uptime": "98.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.91%",
-    "uptimeYear": "96.98%",
+    "uptimeMonth": "62.66%",
+    "uptimeYear": "96.88%",
     "time": 1039,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1050,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2025-06-11": 4,
+      "2025-06-11": 550,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -252,9 +252,9 @@
     "url": "$URL_EXCHANGE",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/email.png",
     "slug": "microsoft-exchange-email-kalender-kontakte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,6 +263,8 @@
     "timeWeek": 472,
     "timeMonth": 480,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-11": 0
+    }
   }
 ]

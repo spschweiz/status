@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 172,
-    "timeWeek": 165,
-    "timeMonth": 159,
-    "timeYear": 180,
+    "time": 234,
+    "timeDay": 207,
+    "timeWeek": 172,
+    "timeMonth": 158,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "47.95%",
     "uptimeYear": "95.65%",
     "time": 1036,
-    "timeDay": 991,
-    "timeWeek": 1079,
-    "timeMonth": 1076,
-    "timeYear": 1010,
+    "timeDay": 1214,
+    "timeWeek": 1065,
+    "timeMonth": 1080,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-06-15": 1235,
       "2025-06-14": 1440,
@@ -66,10 +66,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1468,
-    "timeDay": 624,
-    "timeWeek": 667,
-    "timeMonth": 642,
-    "timeYear": 687,
+    "timeDay": 508,
+    "timeWeek": 568,
+    "timeMonth": 629,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-02-18": 37,
       "2024-09-05": 29
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 524,
-    "timeDay": 145,
-    "timeWeek": 160,
-    "timeMonth": 191,
+    "timeDay": 155,
+    "timeWeek": 152,
+    "timeMonth": 189,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-02-18": 36,
@@ -108,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 438,
-    "timeWeek": 443,
-    "timeMonth": 466,
-    "timeYear": 460,
+    "timeDay": 551,
+    "timeWeek": 436,
+    "timeMonth": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 442,
-    "timeDay": 316,
-    "timeWeek": 368,
-    "timeMonth": 430,
+    "timeDay": 353,
+    "timeWeek": 343,
+    "timeMonth": 425,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-02-20": 29,
@@ -154,8 +154,7 @@
       "2024-07-17": 64,
       "2024-07-08": 435,
       "2024-07-07": 1440,
-      "2024-07-06": 207,
-      "2024-06-28": 17
+      "2024-07-06": 207
     }
   },
   {
@@ -170,17 +169,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 590,
-    "timeDay": 395,
-    "timeWeek": 502,
-    "timeMonth": 553,
-    "timeYear": 559,
+    "timeDay": 462,
+    "timeWeek": 477,
+    "timeMonth": 542,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2024-11-20": 48,
       "2024-09-16": 420,
       "2024-09-15": 1311,
       "2024-08-15": 317,
-      "2024-07-24": 304,
-      "2024-06-28": 16
+      "2024-07-24": 304
     }
   },
   {
@@ -189,16 +187,16 @@
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/telephone.ico",
     "slug": "telefonanlage",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 410,
-    "timeWeek": 434,
-    "timeMonth": 477,
-    "timeYear": 455,
+    "timeDay": 495,
+    "timeWeek": 420,
+    "timeMonth": 471,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
@@ -212,18 +210,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.73%",
-    "time": 678,
-    "timeDay": 628,
-    "timeWeek": 649,
-    "timeMonth": 700,
-    "timeYear": 690,
+    "time": 677,
+    "timeDay": 505,
+    "timeWeek": 579,
+    "timeMonth": 694,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-06-14": 35,
       "2025-06-13": 1,
       "2025-04-02": 516,
       "2025-04-01": 289,
-      "2025-02-10": 75,
-      "2024-06-28": 498
+      "2025-02-10": 75
     }
   },
   {
@@ -238,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 610,
-    "timeDay": 495,
-    "timeWeek": 498,
-    "timeMonth": 544,
+    "timeDay": 479,
+    "timeWeek": 470,
+    "timeMonth": 532,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-05-02": 39,
@@ -262,10 +259,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 447,
-    "timeWeek": 547,
-    "timeMonth": 509,
-    "timeYear": 467,
+    "timeDay": 519,
+    "timeWeek": 517,
+    "timeMonth": 508,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   }
 ]

@@ -73,8 +73,7 @@
     "dailyMinutesDown": {
       "2025-07-24": 206,
       "2025-07-23": 231,
-      "2025-02-18": 37,
-      "2024-09-05": 29
+      "2025-02-18": 37
     }
   },
   {
@@ -96,8 +95,7 @@
     "dailyMinutesDown": {
       "2025-07-24": 206,
       "2025-07-23": 231,
-      "2025-02-18": 36,
-      "2024-09-05": 29
+      "2025-02-18": 36
     }
   },
   {
@@ -125,9 +123,9 @@
     "slug": "mattermost-chat",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 439,
     "timeDay": 646,
@@ -135,7 +133,8 @@
     "timeMonth": 478,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-09-04": 1,
+      "2025-09-05": 3,
+      "2025-09-04": 6,
       "2025-02-20": 29,
       "2025-01-04": 7,
       "2024-12-13": 37,
@@ -162,9 +161,9 @@
     "slug": "jitsi-meet-sp-schweiz",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.66%",
     "time": 583,
     "timeDay": 634,
@@ -172,7 +171,8 @@
     "timeMonth": 596,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-09-04": 1,
+      "2025-09-05": 3,
+      "2025-09-04": 5,
       "2024-11-20": 48,
       "2024-09-16": 420,
       "2024-09-15": 1311
@@ -227,9 +227,9 @@
     "slug": "terminalserver",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.81%",
     "time": 591,
     "timeDay": 611,
@@ -237,7 +237,8 @@
     "timeMonth": 722,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-09-04": 0,
+      "2025-09-05": 4,
+      "2025-09-04": 4,
       "2025-05-02": 39,
       "2025-03-27": 43,
       "2024-11-21": 503,

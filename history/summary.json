@@ -4,19 +4,19 @@
     "url": "https://www.sp-ps.ch",
     "icon": "https://sp-parl.ch/wp-content/themes/sp/img/icons/apple-touch-icon.png",
     "slug": "sp-schweiz-webseite",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 126,
-    "timeWeek": 232,
-    "timeMonth": 230,
-    "timeYear": 199,
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 209,
+    "timeDay": 1120,
+    "timeWeek": 551,
+    "timeMonth": 317,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 37
     }
   },
   {

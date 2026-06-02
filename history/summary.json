@@ -29,7 +29,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.42%",
     "time": 1166,
     "timeDay": 932,
     "timeWeek": 1158,
@@ -62,16 +62,16 @@
     "url": "https://login.sp-ps.ch/tocco",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/rose.ico",
     "slug": "mitgliederdatenbank",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.88%",
     "time": 682,
-    "timeDay": 388,
-    "timeWeek": 692,
-    "timeMonth": 678,
+    "timeDay": 497,
+    "timeWeek": 694,
+    "timeMonth": 679,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2025-07-24": 206,
@@ -79,7 +79,7 @@
       "2025-10-13": 15,
       "2026-02-02": 20,
       "2026-03-31": 115,
-      "2026-06-02": 0
+      "2026-06-02": 49
     }
   },
   {
@@ -87,17 +87,17 @@
     "url": "https://login.sp-ps.ch/",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/hammer-and-wrench.ico",
     "slug": "sektionsportal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 199,
-    "timeDay": 373,
-    "timeWeek": 433,
-    "timeMonth": 409,
-    "timeYear": 203,
+    "timeDay": 426,
+    "timeWeek": 444,
+    "timeMonth": 412,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2025-07-24": 206,
       "2025-07-23": 231,
@@ -105,7 +105,7 @@
       "2026-02-02": 20,
       "2026-03-31": 115,
       "2026-04-07": 19,
-      "2026-06-02": 0
+      "2026-06-02": 48
     }
   },
   {

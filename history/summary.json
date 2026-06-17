@@ -210,16 +210,16 @@
     "url": "$URL_TS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/desktop-computer.png",
     "slug": "terminalserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 626,
-    "timeDay": 544,
-    "timeWeek": 570,
-    "timeMonth": 558,
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.63%",
+    "time": 627,
+    "timeDay": 519,
+    "timeWeek": 561,
+    "timeMonth": 556,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-09-05": 99,
@@ -230,7 +230,7 @@
       "2026-04-21": 57,
       "2026-04-29": 809,
       "2026-04-30": 497,
-      "2026-06-17": 0
+      "2026-06-17": 124
     }
   },
   {

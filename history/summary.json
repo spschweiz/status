@@ -4,17 +4,17 @@
     "url": "https://www.sp-ps.ch",
     "icon": "https://sp-parl.ch/wp-content/themes/sp/img/icons/apple-touch-icon.png",
     "slug": "sp-schweiz-webseite",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "22.81%",
-    "uptimeWeek": "67.83%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
-    "time": 486,
-    "timeDay": 5469,
-    "timeWeek": 4363,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "22.83%",
+    "uptimeWeek": "63.29%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "99.21%",
+    "time": 491,
+    "timeDay": 4818,
+    "timeWeek": 4320,
     "timeMonth": 2867,
-    "timeYear": 569,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-11-18": 37,
       "2026-07-18": 59,
@@ -25,7 +25,7 @@
       "2026-08-13": 1111,
       "2026-08-12": 1440,
       "2026-08-11": 634,
-      "2026-08-14": 57
+      "2026-08-14": 514
     }
   },
   {
@@ -33,17 +33,17 @@
     "url": "https://sp-parl.ch",
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "wordpress-plattform",
-    "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "22.83%",
-    "uptimeWeek": "52.96%",
-    "uptimeMonth": "89.17%",
-    "uptimeYear": "99.05%",
-    "time": 1188,
-    "timeDay": 1315,
-    "timeWeek": 1096,
-    "timeMonth": 1189,
-    "timeYear": 1215,
+    "status": "up",
+    "uptime": "98.12%",
+    "uptimeDay": "22.84%",
+    "uptimeWeek": "48.42%",
+    "uptimeMonth": "88.13%",
+    "uptimeYear": "98.96%",
+    "time": 1189,
+    "timeDay": 1394,
+    "timeWeek": 1112,
+    "timeMonth": 1201,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2025-12-09": 121,
       "2026-02-05": 22,
@@ -55,7 +55,7 @@
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 694,
-      "2026-08-14": 57
+      "2026-08-14": 514
     }
   },
   {
@@ -71,7 +71,7 @@
     "uptimeYear": "99.94%",
     "time": 696,
     "timeDay": 625,
-    "timeWeek": 747,
+    "timeWeek": 723,
     "timeMonth": 753,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -95,9 +95,9 @@
     "uptimeYear": "99.94%",
     "time": 244,
     "timeDay": 352,
-    "timeWeek": 504,
+    "timeWeek": 488,
     "timeMonth": 502,
-    "timeYear": 263,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2025-10-13": 15,
       "2026-02-02": 20,
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 495,
     "timeDay": 418,
-    "timeWeek": 533,
+    "timeWeek": 531,
     "timeMonth": 517,
     "timeYear": 509,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "99.90%",
     "time": 452,
     "timeDay": 501,
-    "timeWeek": 505,
+    "timeWeek": 503,
     "timeMonth": 467,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "99.57%",
     "time": 574,
     "timeDay": 502,
-    "timeWeek": 556,
+    "timeWeek": 541,
     "timeMonth": 553,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
     "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 502,
-    "timeWeek": 535,
+    "timeWeek": 521,
     "timeMonth": 482,
     "timeYear": 506,
     "dailyMinutesDown": {}
@@ -209,7 +209,7 @@
     "uptimeYear": "99.99%",
     "time": 700,
     "timeDay": 1292,
-    "timeWeek": 805,
+    "timeWeek": 792,
     "timeMonth": 760,
     "timeYear": 718,
     "dailyMinutesDown": {
@@ -230,7 +230,7 @@
     "uptimeYear": "99.63%",
     "time": 563,
     "timeDay": 492,
-    "timeWeek": 553,
+    "timeWeek": 536,
     "timeMonth": 552,
     "timeYear": 569,
     "dailyMinutesDown": {
@@ -258,7 +258,7 @@
     "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 447,
-    "timeWeek": 588,
+    "timeWeek": 570,
     "timeMonth": 580,
     "timeYear": 586,
     "dailyMinutesDown": {}

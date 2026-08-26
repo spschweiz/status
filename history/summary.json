@@ -33,16 +33,16 @@
     "url": "https://sp-parl.ch",
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "wordpress-plattform",
-    "status": "down",
+    "status": "up",
     "uptime": "98.13%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "88.05%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "87.97%",
+    "uptimeYear": "98.95%",
     "time": 1238,
-    "timeDay": 10470,
-    "timeWeek": 5324,
-    "timeMonth": 2238,
+    "timeDay": 7342,
+    "timeWeek": 4939,
+    "timeMonth": 2209,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2025-12-09": 121,
@@ -57,7 +57,7 @@
       "2026-08-10": 694,
       "2026-08-14": 514,
       "2026-08-19": 36,
-      "2026-08-26": 0
+      "2026-08-26": 34
     }
   },
   {

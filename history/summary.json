@@ -196,21 +196,21 @@
     "url": "$URL_BOOKS",
     "icon": "https://raw.githubusercontent.com/spschweiz/status/master/assets/books.ico",
     "slug": "wissensdatenbank-buecherregal",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "77.59%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.93%",
     "time": 728,
-    "timeDay": 0,
-    "timeWeek": 504,
-    "timeMonth": 902,
+    "timeDay": 1014,
+    "timeWeek": 577,
+    "timeMonth": 906,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2026-02-16": 20,
       "2026-04-07": 17,
-      "2026-10-28": 172
+      "2026-10-28": 323
     }
   },
   {
